@@ -1,4 +1,4 @@
-all: test
+all test:
 	@echo "Hello World."
 
 test:
